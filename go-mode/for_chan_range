@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: for chan range
+# key: crange
+# contributor : @atotto
+# --
+for ${1:v} := range ${2:target} {
+  $0
+}
