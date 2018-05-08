@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: get
+# key: get
+# group: django
+# --
+def get(self, request):
+    $0

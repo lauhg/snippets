@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: post
+# key: post
+# group: django
+# --
+def post(self, request):
+    $0
